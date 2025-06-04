@@ -1,0 +1,27 @@
+OUTPUT
+ACCURACY SCORE:
+
+Logistic Regression Accuracy: 0.85
+
+CLASSIFICATION REPORT :
+              precision    recall  f1-score   support
+
+    Negative       1.00      1.00      1.00         2
+     Neutral       0.50      1.00      0.67         1
+    Positive       1.00      0.50      0.67         2
+
+    accuracy                           0.80         5
+   macro avg       0.83      0.83      0.78         5
+weighted avg       0.90      0.80      0.80         5
+
+Accuracy: 0.80
+Precision: 0.90
+Recall: 0.80
+F1 Score: 0.80
+
+CONFUSION MATRIX :
+[[2 0 0]
+ [0 1 0]
+ [0 1 1]]
+
+
